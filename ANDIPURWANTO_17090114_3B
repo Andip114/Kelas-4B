@@ -1,0 +1,15 @@
+
+package halo;
+
+/**
+ *
+ * @author andi purwanto
+ */
+public class andipurwanto {
+    public static void main (String[] args){
+        System.out.println("Halo nama saya Andi Purwanto");
+        System.out.println("Prodi informatika");
+        System.out.println("Kelas 4B");
+        System.out.println("NIM 17090114");
+    }
+}
