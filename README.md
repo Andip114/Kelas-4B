@@ -1,2 +1,2 @@
-# Kelas-4B
+# Tugas OOP 1
 Tugas 1
